@@ -1,15 +1,15 @@
-Machine Learning Lab
+# MACHINE LEARNING LAB
 
 A repository where I practice and explore different machine learning algorithms using Python and Jupyter Notebook.
 
 I work with different datasets, train models, evaluate their performance, experiment with hyperparameter tuning, and compare different models to understand how they perform.
 
-Topics Covered
+## Topics Covered
 
 1. Supervised Learning
 
 * Regression: Linear Regression, Polynomial Regression
-* Classification: Logistic Regression, KNN, Decision Trees
+* Classification: Logistic Regression, K-Nearest Neighbors (KNN), Decision Trees
 
 2. Unsupervised Learning
 
@@ -34,25 +34,25 @@ Technologies & Libraries
 * Seaborn
 * Scikit-learn
 
-Getting Started
+## Getting Started
 
-Clone the repository:
+1. Clone the repository
 
 git clone https://github.com/SadmanUddin/Machine-Learning-Lab.git
 
-Navigate to the project directory:
+2. Navigate to the project directory
 
 cd Machine-Learning-Lab
 
-Install the required libraries:
+3. Install dependencies
 
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
-Launch Jupyter Notebook:
+4. Launch Jupyter Notebook
 
 jupyter notebook
 
-Repository Structure
+## Repository Structure
 
 Machine-Learning-Lab/
 │
@@ -61,6 +61,10 @@ Machine-Learning-Lab/
 ├── KNN/
 ├── Linear regression/
 ├── Logistic regression/
-└── Polynomial regression/
+├── Polynomial regression/
+│
+└── README.md
+
+⸻
 
 More algorithms, experiments, and model comparisons will be added as I continue learning and practising machine learning.
