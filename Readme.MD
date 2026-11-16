@@ -92,6 +92,11 @@ Machine-Learning-Lab/
 │   ├── Fuel_Efficiency_Prediction.ipynb
 │   └── Untitled-1.ipynb
 │
+├── KMeans/
+│   ├── Mall_Customers.csv
+|   ├── Wine.csv
+│   ├── Mall_Customer_Segmentation_KMeans_Model.ipynb
+│   └── Untitled-1.ipynb
 ├── .gitignore
 └── README.md
 ```
