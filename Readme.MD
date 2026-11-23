@@ -97,6 +97,10 @@ Machine-Learning-Lab/
 |   ├── Wine.csv
 │   ├── Mall_Customer_Segmentation_KMeans_Model.ipynb
 │   └── Untitled-1.ipynb
+├── Hierarchical clustering/
+│   ├── cars.csv
+│   ├── Car_group_clustering.ipynb
+│   └── Untitled-1.ipynb
 ├── .gitignore
 └── README.md
 ```
